@@ -1,0 +1,7 @@
+2024-02-14T08:52:10,970 [main] INFO  (UserTest.java:38) - User{email='aubrey.stroman@example.com', firstName='Abdul', id=410958248, lastName='Corwin', password='9akswv4', phone='237.622.1043', userStatus=1, username='laurette.halvorson'}
+2024-02-14T08:52:11,021 [main] INFO  (UserEndPoints.java:16) - Creating user
+2024-02-14T08:52:17,312 [main] INFO  (UserEndPoints.java:42) - Getting user
+2024-02-14T08:52:18,528 [main] INFO  (UserTest.java:64) - Before updating Username: laurette.halvorson
+2024-02-14T08:52:18,531 [main] INFO  (UserTest.java:66) - After updating Username: nilda.hettinger
+2024-02-14T08:52:18,532 [main] INFO  (UserEndPoints.java:57) - Updating user
+2024-02-14T08:52:19,651 [main] INFO  (UserEndPoints.java:72) - Deleting user
